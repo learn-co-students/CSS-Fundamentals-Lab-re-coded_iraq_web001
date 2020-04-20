@@ -3,3 +3,12 @@ body {
   height: 100%;
   margin: 0;
 }
+nav a {
+  background:grey;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+figcaption{
+  font-size: 10px;
+  text-align: 
+}
