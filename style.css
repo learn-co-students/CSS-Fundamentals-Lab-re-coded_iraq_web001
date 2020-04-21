@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+nav , #featured-property , h1 {
+  text-align: center;
+}
+
+nav a{
+  background-color: skyblue;
+  padding: 0 10px;
+}
+
+#featured-property figcaption{
+  font-size: 13px;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#details{
+  display: flex;
+  justify-content: space-around;
+  background: coral;
+  margin-top: 20px;
+  
+}
+
+
+
+
