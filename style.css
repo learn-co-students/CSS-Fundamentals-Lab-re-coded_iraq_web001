@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  position: center;
+  
+}
+img{
+  position: center;
+}
+nav, a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
